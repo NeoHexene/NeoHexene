@@ -5,7 +5,7 @@
 
 - 👨‍💻 Touchless AR-ATM Project Link -> [https://www.youtube.com/watch?v=boq5WIR7A9M](https://www.youtube.com/watch?v=boq5WIR7A9M)
 
-- 📫 How to reach me **aniruddha.khandekar21@gmail.com**
+- 📫 How to reach me **ak21771@usc.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
