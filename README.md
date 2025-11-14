@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniruddha Khandekar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript and C++**
-
-- 👨‍💻 Touchless AR-ATM Project Link -> [https://www.youtube.com/watch?v=boq5WIR7A9M](https://www.youtube.com/watch?v=boq5WIR7A9M)
-
 - 📫 How to reach me **ak21771@usc.edu**
 
 <h3 align="left">Connect with me:</h3>
